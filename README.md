@@ -1,6 +1,4 @@
-# Louligram Social Media
 
-# **Louligram**
 
 ![stylee one.png](https://github.com/Louai-Zokerburg/louligram-social-media-app/blob/main/project-cover.png?raw=true)
 
